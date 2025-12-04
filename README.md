@@ -65,8 +65,7 @@ The bot has achieved approximately **300** SOL in profits over the past 4 months
 - [Wallet 5: ddcr8pBkH55QMZAktGcDQLZzYVrSyW5FX5PJooTgbRy](https://gmgn.ai/sol/address/ddcr8pBkH55QMZAktGcDQLZzYVrSyW5FX5PJooTgbRy)  
 - [Wallet 6: EDfMuMKz5Up53EN63Gs6rEYWCwtXcLzrD5wXWfMMrrRJ](https://gmgn.ai/sol/address/EDfMuMKz5Up53EN63Gs6rEYWCwtXcLzrD5wXWfMMrrRJ)  
 - [Wallet 7: 4AEPdnCm3Zu9SsmWPt9iV6t7RWd3CZ6RZz7kt3q1rTD2](https://gmgn.ai/sol/address/4AEPdnCm3Zu9SsmWPt9iV6t7RWd3CZ6RZz7kt3q1rTD2)  
-- [Wallet 8: H7k54exfdmTN33rxdZ7fSh9rWCscLXr4TPnPVgnmm5Ja](https://gmgn.ai/sol/address/H7k54exfdmTN33rxdZ7fSh9rWCscLXr4TPnPVgnmm5Ja)  
-- [Wallet 9: EMriKwNvYu6PzdZopYRKiqatAzG1AoqTcQDWBHxWLss3](https://gmgn.ai/sol/address/EMriKwNvYu6PzdZopYRKiqatAzG1AoqTcQDWBHxWLss3)  
+- [Wallet 8: EMriKwNvYu6PzdZopYRKiqatAzG1AoqTcQDWBHxWLss3](https://gmgn.ai/sol/address/EMriKwNvYu6PzdZopYRKiqatAzG1AoqTcQDWBHxWLss3)  
 
 ---
 
