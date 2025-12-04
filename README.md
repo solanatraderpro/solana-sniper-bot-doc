@@ -56,7 +56,7 @@ Effective sniper trading requires constant review and tuning:
 
 The bot has achieved approximately **300** SOL in profits over the past 4 months. Review verified wallet histories here:
 
-![Trading Performance History](./images/history.png)
+![Trading Performance History](./images/history.jpg)
 
 - [Wallet 1: EB3R9HKyEs6KnAWXfpMMneofmCrNTuEEtb8nW5uQTuFE](https://gmgn.ai/sol/address/EB3R9HKyEs6KnAWXfpMMneofmCrNTuEEtb8nW5uQTuFE)  
 - [Wallet 2: 6Ek5r9B2g3ys4Vbhmu52QMJo9iE8C42WrQbYkb1oUMDw](https://gmgn.ai/sol/address/6Ek5r9B2g3ys4Vbhmu52QMJo9iE8C42WrQbYkb1oUMDw)  
